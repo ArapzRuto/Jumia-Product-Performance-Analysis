@@ -79,7 +79,7 @@ Additional calculated fields were created, including:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 The dashboard was designed to provide interactive analysis through Pivot Tables, Charts, KPI Cards, and Slicers.
 
@@ -95,7 +95,7 @@ Users can quickly explore product performance by applying different filters.
 
 ---
 
-## 🎯 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 The dashboard tracks the following metrics:
 
@@ -110,7 +110,7 @@ These KPIs provide a high-level overview of overall product performance.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The dashboard includes:
 

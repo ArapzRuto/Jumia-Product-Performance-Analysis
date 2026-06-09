@@ -272,9 +272,9 @@ Dashboard screenshotas below;
 
 ```markdown
 
+
 ![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
-![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
-![Mental Health Dashboard](https://github.com/ArapzRuto/Mental-Health-Analytics/blob/main/Project%203%20Dashboard.jpg)
+
 
 ```
 

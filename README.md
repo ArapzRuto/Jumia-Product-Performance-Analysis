@@ -280,7 +280,9 @@ Dashboard screenshotas below;
 ---
 
 
-# Author
+---
+
+## Author
 
 **Robert Ruto**
 
@@ -288,6 +290,8 @@ Dashboard screenshotas below;
 
 ---
 
-# License
+## License
 
 This project is available for educational and portfolio purposes.
+
+---

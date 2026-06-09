@@ -282,16 +282,17 @@ Dashboard screenshotas below;
 
 ---
 
-## Author
+## 👤 Author
 
-**Robert Ruto**
-
-*Data Analytics | Business Intelligence | Excel Dashboard Development*
+**Robert Ruto**  
+Data Analyst | Data Scientist | Researcher  
 
 ---
 
-## License
+## 🔗 Connect With Me
 
-This project is available for educational and portfolio purposes.
+- LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112  
+- GitHub: https://github.com/ArapzRuto  
+
 
 ---

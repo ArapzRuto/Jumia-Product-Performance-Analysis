@@ -1,6 +1,6 @@
 # 🛒 Jumia Product Performance Dashboard
 
-## Project Overview
+## 📖 Project Overview
 
 The Jumia Product Performance Dashboard is an interactive Excel-based analytics solution developed to evaluate product performance on Jumia by analyzing pricing, discounts, customer ratings, and reviews. The dashboard transforms raw product data into actionable business insights that help identify top-performing products, understand customer behavior, and assess the effectiveness of discount strategies.
 
@@ -8,7 +8,7 @@ The project demonstrates the use of Microsoft Excel for data cleaning, transform
 
 ---
 
-# Business Problem
+## 🎯 Business Problem
 
 E-commerce platforms such as Jumia offer a wide variety of products with different pricing strategies, discount levels, and customer feedback. However, without proper analysis, it becomes difficult to determine:
 
@@ -21,7 +21,7 @@ This dashboard helps stakeholders make data-driven decisions regarding pricing, 
 
 ---
 
-# Dataset Information
+## 📊 Dataset Information
 
 The dataset contains information about products listed on Jumia.
 
@@ -38,7 +38,7 @@ The dataset was cleaned and transformed to support meaningful analysis and repor
 
 ---
 
-# Data Preparation
+## 🧹 Data Preparation
 
 Several data-cleaning and transformation processes were performed before analysis.
 
@@ -79,7 +79,7 @@ Additional calculated fields were created, including:
 
 ---
 
-# Dashboard Features
+## 📈 Dashboard Features
 
 The dashboard was designed to provide interactive analysis through Pivot Tables, Charts, KPI Cards, and Slicers.
 
@@ -95,7 +95,7 @@ Users can quickly explore product performance by applying different filters.
 
 ---
 
-# Key Performance Indicators (KPIs)
+## 🎯 Key Performance Indicators (KPIs)
 
 The dashboard tracks the following metrics:
 
@@ -110,7 +110,7 @@ These KPIs provide a high-level overview of overall product performance.
 
 ---
 
-# Visualizations
+## 📊 Visualizations
 
 The dashboard includes:
 
@@ -144,51 +144,51 @@ The dashboard includes:
 
 ---
 
-# Key Findings
+## 🔍 Key Findings
 
-## 1. Customer Ratings Are Relatively Low
+### 1. Customer Ratings Are Relatively Low
 
 The average product rating is **2.01 out of 5**, indicating relatively low customer satisfaction across many products.
 
-### Business Impact
+#### Business Impact
 
 Low ratings may reduce customer trust and affect future sales.
 
 ---
 
-## 2. Higher-Rated Products Receive More Reviews
+### 2. Higher-Rated Products Receive More Reviews
 
 Products rated between **4 and 5 stars** generate significantly more customer reviews than lower-rated products.
 
-### Insight
+#### Insight
 
 This suggests that customer satisfaction encourages engagement and feedback.
 
-### Business Impact
+#### Business Impact
 
 Promoting highly rated products can increase customer confidence and conversions.
 
 ---
 
-## 3. Discounts Have Limited Influence on Customer Engagement
+### 3. Discounts Have Limited Influence on Customer Engagement
 
 The relationship between discount percentage and review volume appears weak.
 
-### Insight
+#### Insight
 
 Large discounts do not consistently generate higher numbers of reviews.
 
-### Business Impact
+#### Business Impact
 
 Product quality and customer experience may have a greater influence on engagement than discounts alone.
 
 ---
 
-## 4. Several Products Receive Extremely High Discounts
+### 4. Several Products Receive Extremely High Discounts
 
 The Top 10 Products with Highest Discounts chart shows products with substantial price reductions.
 
-### Business Impact
+#### Business Impact
 
 While discounts may attract attention, excessive discounting can:
 
@@ -198,11 +198,11 @@ While discounts may attract attention, excessive discounting can:
 
 ---
 
-## 5. Top-Rated Products Maintain Excellent Customer Satisfaction
+### 5. Top-Rated Products Maintain Excellent Customer Satisfaction
 
 The highest-rated products consistently achieve ratings close to 5.0.
 
-### Business Impact
+#### Business Impact
 
 These products can serve as benchmarks for:
 
@@ -212,37 +212,37 @@ These products can serve as benchmarks for:
 
 ---
 
-# Recommendations
+## 💡 Recommendations
 
-### • Improve Product Quality
+### Improve Product Quality
 
 Investigate products with consistently low ratings and address quality concerns raised by customers.
 
-### • Promote High-Performing Products
+### Promote High-Performing Products
 
 Feature highly rated products in marketing campaigns and product recommendations.
 
-### • Optimize Discount Strategies
+### Optimize Discount Strategies
 
 Rather than offering excessive discounts, focus on targeted promotions that maximize profitability.
 
-### • Encourage Customer Reviews
+### Encourage Customer Reviews
 
 Implement review collection campaigns to increase customer engagement and gather valuable feedback.
 
-### • Monitor Low-Rated Products
+### Monitor Low-Rated Products
 
 Regularly track products with poor ratings and take corrective action where necessary.
 
-### • Balance Pricing and Customer Value
+### Balance Pricing and Customer Value
 
 Ensure that pricing strategies remain competitive while maintaining product quality and profitability.
 
 ---
 
-# Tools and Technologies
+## 🛠️ Tools and Technologies
 
-## Microsoft Excel
+### Microsoft Excel
 
 The dashboard was built using:
 
@@ -257,7 +257,7 @@ The dashboard was built using:
 
 ---
 
-# Project Deliverables
+## 📦 Project Deliverables
 
 * Cleaned Jumia Product Dataset
 * Interactive Excel Dashboard
@@ -266,33 +266,30 @@ The dashboard was built using:
 
 ---
 
-# Dashboard Preview
+## 📷 Dashboard Preview
 
-Dashboard screenshotas below;
-
-
+Dashboard screenshot below:
 
 ![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
-
-
-```
-
----
-
 
 ---
 
 ## 👤 Author
 
-**Robert Ruto**  
-Data Analyst | Data Scientist | Researcher  
+**Robert Ruto**
+*Data Analyst | Data Scientist | Researcher*
 
 ---
 
 ## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112  
-- GitHub: https://github.com/ArapzRuto  
+* LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
+* GitHub: https://github.com/ArapzRuto
 
+---
+
+## 📄 License
+
+This project is available for educational and portfolio purposes.
 
 ---

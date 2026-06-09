@@ -1,6 +1,6 @@
 # 🛒 Jumia Product Performance Dashboard
 
-## 📖 Project Overview
+## Project Overview
 
 The Jumia Product Performance Dashboard is an interactive Excel-based analytics solution developed to evaluate product performance on Jumia by analyzing pricing, discounts, customer ratings, and reviews. The dashboard transforms raw product data into actionable business insights that help identify top-performing products, understand customer behavior, and assess the effectiveness of discount strategies.
 
@@ -8,7 +8,7 @@ The project demonstrates the use of Microsoft Excel for data cleaning, transform
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 E-commerce platforms such as Jumia offer a wide variety of products with different pricing strategies, discount levels, and customer feedback. However, without proper analysis, it becomes difficult to determine:
 
@@ -21,7 +21,7 @@ This dashboard helps stakeholders make data-driven decisions regarding pricing, 
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset contains information about products listed on Jumia.
 
@@ -38,7 +38,7 @@ The dataset was cleaned and transformed to support meaningful analysis and repor
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 Several data-cleaning and transformation processes were performed before analysis.
 
@@ -144,7 +144,7 @@ The dashboard includes:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### 1. Customer Ratings Are Relatively Low
 
@@ -212,7 +212,7 @@ These products can serve as benchmarks for:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 ### Improve Product Quality
 
@@ -240,7 +240,7 @@ Ensure that pricing strategies remain competitive while maintaining product qual
 
 ---
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 ### Microsoft Excel
 
@@ -257,7 +257,7 @@ The dashboard was built using:
 
 ---
 
-## 📦 Project Deliverables
+##  Project Deliverables
 
 * Cleaned Jumia Product Dataset
 * Interactive Excel Dashboard
@@ -266,7 +266,7 @@ The dashboard was built using:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 Dashboard screenshot below:
 
@@ -288,8 +288,4 @@ Dashboard screenshot below:
 
 ---
 
-## 📄 License
 
-This project is available for educational and portfolio purposes.
-
----

@@ -268,10 +268,11 @@ The dashboard was built using:
 
 # Dashboard Preview
 
-Add dashboard screenshots here.
+Dashboard screenshotas below;
 
 ```markdown
-![Dashboard Overview](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
+
+![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
 
 
 ```

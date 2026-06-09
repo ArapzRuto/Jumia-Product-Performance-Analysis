@@ -273,7 +273,7 @@ Dashboard screenshotas below;
 ```markdown
 
 ![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
-![Jumia Product Performance Dashboard](https://raw.githubusercontent.com/ArapzRuto/Jumia-Product-Performance-Analysis/main/Jumia%20product%20Dashboard.jpg)
+![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
 
 ```
 
